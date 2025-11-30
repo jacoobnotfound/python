@@ -1,2 +1,2 @@
 # python
-moje projekty w pythonie
+Moje projekty w pythonie i nauka git
