@@ -1,2 +1,2 @@
 # Python
-My python projects
+My python projects and learning git
