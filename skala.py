@@ -1,3 +1,5 @@
+#program do obliczania rzeczywistego rozmiaru obiektu na podstawie skali mapy
+
 skala = input("podaj skale (bez 1:): ")
 na_mapie = input("podaj rozmiar na mapie: ")
 
